@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.todo-container {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+button {
+    margin-top: 10px;
+}
+
+.completed {
+    text-decoration: line-through;
+}
